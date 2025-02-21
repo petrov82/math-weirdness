@@ -1,0 +1,16 @@
+{
+  "name": "math_weirdness",
+  "version": "1.0.0",
+  "main": "three_lists.js",
+  "scripts": {
+    "start": "http-server -p 8000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
