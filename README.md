@@ -1,6 +1,7 @@
 # Math Weirdness
 
 This project visualizes mathematical patterns using Chart.js.
+Just an attempt to get some interesting visuals and DSA insights.
 
 ### Setup
 
